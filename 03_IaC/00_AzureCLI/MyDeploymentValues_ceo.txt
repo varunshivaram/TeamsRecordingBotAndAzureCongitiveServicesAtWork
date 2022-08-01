@@ -1,5 +1,5 @@
-botSubDomain=ceobot.vsalis.eu
-botName=myTeamsRecBot
+botSubDomain=echobot.recosenselabs.com
+botName=EchobotTestv02
 projectPrefix=ceobot
-azureLocation=northeurope
-acrName=ceobotacr
+azureLocation=francecentral
+acrName=ceobotacr  
